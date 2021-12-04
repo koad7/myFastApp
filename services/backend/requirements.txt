@@ -1,2 +1,5 @@
+aerich==0.5.5
+asyncpg==0.23.0
 fastapi==0.68.0
+tortoise-orm==0.17.6
 uvicorn==0.14.0
